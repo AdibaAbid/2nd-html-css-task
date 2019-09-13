@@ -1,2 +1,3 @@
 # 2nd-html-task
-practices
+# recipe Code 
+this website is published at https://adibaabid.github.io/2nd-html-task/
