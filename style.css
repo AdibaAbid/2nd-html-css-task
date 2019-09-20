@@ -1,0 +1,17 @@
+body{
+background: white
+}
+.content{
+    margin: auto;
+  width: 60%;
+  box-shadow: 10px 10px 5px grey;
+  padding: 10px;
+background-color: rgb(167, 204, 192)
+}
+h1, h2{
+    color: rgb(44, 29, 44);
+    font-style: italic
+}
+.fontchange{
+    font-family: 'Source Sans Pro', sans-serif;
+}
